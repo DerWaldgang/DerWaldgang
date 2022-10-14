@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋 My name is Salambek, I'm 22 y.o. Frontend Developer with one year of experience in web development. 
 
 <!--
 **DerWaldgang/DerWaldgang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
