@@ -42,4 +42,4 @@
 
 ### Как вы можете со мной связаться:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/err0rby)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/ze_blank)
