@@ -27,22 +27,6 @@
 
 ---
 
-### Мои проекты:
-
-- Online-auction (Онлайн-аукцион) - 
-  <a href="https://github.com/DerWaldgang/final-front">Code-Front</a> |
-  <a href= "https://github.com/DerWaldgang/final-back">Code-Back</a> 
-
-- Web-application for international freight (Веб-приложение для международных грузоперевозок) -
-  <a href="https://github.com/DerWaldgang/Truck-Front">Code-Front</a> |
-  <a href="https://github.com/DerWaldgang/Truck-Back">Code-Back</a> 
-
-- Freelance-site (Фриланас-сайт) - 
-  <a href="https://github.com/DerWaldgang/freelance-front">Code-Front</a> |
-  <a href="https://github.com/DerWaldgang/freelance-back">Code-Back</a> 
-
----
-
 ### Как вы можете со мной связаться:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/ze_blank)
