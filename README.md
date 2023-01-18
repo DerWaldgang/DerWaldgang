@@ -1,5 +1,5 @@
 
-<h2 align='center'> I'm <strong>Frontend React Developer</strong>.  And you? Anyway welcome!</h2>
+<h2 align='center'> Hi and welcome ! I'm <strong>Frontend React Developer</strong>. Here you can find some of my code and projects.</h2>
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-### Как вы можете со мной связаться:
+### My contacts:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/ze_blank)
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salambek-makhaev-bb1223253)
