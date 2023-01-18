@@ -1,5 +1,5 @@
 
-<h2 align='center'> I'm <strong>Frontend React Developer</strong>. And you? Anyway welcome!</h2>
+<h2 align='center'> I'm <strong>Frontend React Developer</strong>.  And you? Anyway welcome!</h2>
 
 ---
 
