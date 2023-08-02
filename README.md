@@ -1,5 +1,5 @@
 
-<h2 align='center'> Hi and welcome ! I'm <strong>Frontend React Developer</strong>. Here you can find some of my code and projects.</h2>
+<h2 align='center'> Hi, I'm <strong>Frontend React Developer</strong>. Here you can find some of my code and projects.</h2>
 
 ---
 
